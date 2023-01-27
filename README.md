@@ -1,5 +1,5 @@
 # SVM_Oversampling
-Abstract
+
 
 The problem with imbalanced learning includes uneven distribution of data across different classes where the majority of the data samples belongs to one class and the remaining minority
 portion of samples to the other. To overcome this problem a synthetic oversampling method is proposed where artificial data points as generated on the minority side to match the numbers 
